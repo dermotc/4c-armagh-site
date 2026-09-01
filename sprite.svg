@@ -11,24 +11,6 @@
 <text x="100" y="146" text-anchor="middle" fill="#F2E24A" font-family="Karla, sans-serif" font-size="11.5" font-weight="600" letter-spacing="1.1">COFFEE HOUSE &amp; KITCHEN</text>
 <rect x="45" y="153" width="110" height="2.6" fill="#F2E24A"/>
 </symbol>
-<symbol id="crest-deli" viewBox="0 0 200 200">
-<circle cx="100" cy="100" r="100" fill="#2B3620"/>
-<circle cx="100" cy="100" r="88" fill="none" stroke="#E5CE47" stroke-width="1.4"/>
-<g fill="none" stroke="#E5CE47" stroke-width="2.1" stroke-linecap="round">
-<path d="M78 56c6-5 15-6 21-2"/><path d="M104 48c7-6 17-6 23-1"/>
-<path d="M74 62l6 34c.6 3.4 3.4 5.6 6.8 5.6h9.6c3.4 0 6.2-2.2 6.8-5.6l6-34z"/>
-<path d="M104 56l6 34c.6 3.4 3.4 5.6 6.8 5.6h9.6c3.4 0 6.2-2.2 6.8-5.6l6-34z"/>
-<line x1="76" y1="74" x2="98" y2="74"/><line x1="106" y1="68" x2="128" y2="68"/>
-<line x1="79" y1="86" x2="96" y2="86"/><line x1="109" y1="80" x2="126" y2="80"/>
-</g>
-<text x="46" y="102" text-anchor="middle" fill="#E5CE47" font-family="Karla, sans-serif" font-size="11">EST.</text>
-<text x="155" y="102" text-anchor="middle" fill="#E5CE47" font-family="Karla, sans-serif" font-size="11">2025</text>
-<g fill="#E5CE47" font-family="Fraunces, Georgia, serif" font-weight="700" text-anchor="middle">
-<text x="100" y="134" font-size="25">4C</text>
-<text x="100" y="156" font-size="23">COFFEE &amp;</text>
-<text x="100" y="177" font-size="23">DELI</text>
-</g>
-</symbol>
 <symbol id="crest-mill" viewBox="0 0 200 200">
 <rect width="200" height="200" fill="#0B0A09"/>
 <g fill="none" stroke="#C0724A" stroke-width="1.2" stroke-linecap="round">

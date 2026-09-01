@@ -54,7 +54,7 @@ font-size:clamp(1.05rem,1.4vw,1.4rem);font-weight:400;line-height:1.5;color:var(
 .offers{background:var(--cream-deep);padding:clamp(2.5rem,5vw,4rem) 0 clamp(3rem,6vw,5rem)}
 .offers__grid{display:grid;gap:clamp(1rem,1.6vw,1.5rem)}
 @media(min-width:700px){.offers__grid{grid-template-columns:repeat(2,1fr)}}
-@media(min-width:1120px){.offers__grid{grid-template-columns:repeat(4,1fr)}}
+@media(min-width:1120px){.offers__grid{grid-template-columns:repeat(3,1fr)}}
 .offer{background:#FFFCF6;color:var(--ink);border:1px solid var(--hairline);
 border-top:4px solid var(--brand);
 padding:clamp(1.75rem,2.6vw,2.4rem) clamp(1.25rem,2vw,1.75rem);
@@ -193,7 +193,7 @@ display:flex;align-items:center;gap:1rem;transition:background .3s}
 .foot{background:var(--espresso);color:var(--cream);padding:clamp(3.5rem,7vw,5.5rem) 0 2.5rem;
 border-top:2px solid var(--gold)}
 .foot__grid{display:grid;gap:2.75rem}
-@media(min-width:860px){.foot__grid{grid-template-columns:1.2fr 1fr 1fr 1fr 1fr}}
+@media(min-width:860px){.foot__grid{grid-template-columns:1.2fr 1fr 1fr 1fr}}
 .foot h4{font-family:var(--crest);font-size:.76rem;letter-spacing:.3em;text-transform:uppercase;
 color:var(--gold);margin:0 0 1.1rem;font-weight:600}
 .foot ul{list-style:none;margin:0;padding:0;font-size:.92em}
