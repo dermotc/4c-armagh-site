@@ -1,0 +1,6 @@
+{
+  "redirects": [
+    { "source": "/coffee-deli.html", "destination": "/", "permanent": true },
+    { "source": "/coffee-deli", "destination": "/", "permanent": true }
+  ]
+}
