@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none">
+<symbol id="crest-ch" viewBox="0 0 200 200">
+<rect width="200" height="200" fill="#2E5EC0"/>
+<g stroke="#1D3C82" stroke-width="2.4">
+<line x1="33" y1="0" x2="33" y2="200"/><line x1="67" y1="0" x2="67" y2="200"/>
+<line x1="100" y1="0" x2="100" y2="200"/><line x1="133" y1="0" x2="133" y2="200"/>
+<line x1="167" y1="0" x2="167" y2="200"/>
+</g>
+<text x="88" y="118" text-anchor="middle" fill="#F2E24A" font-family="Fraunces, Georgia, serif" font-size="96">4</text>
+<text x="128" y="106" text-anchor="middle" fill="#F2E24A" font-family="Fraunces, Georgia, serif" font-size="52" font-weight="300">c</text>
+<text x="100" y="146" text-anchor="middle" fill="#F2E24A" font-family="Karla, sans-serif" font-size="11.5" font-weight="600" letter-spacing="1.1">COFFEE HOUSE &amp; KITCHEN</text>
+<rect x="45" y="153" width="110" height="2.6" fill="#F2E24A"/>
+</symbol>
+<symbol id="crest-deli" viewBox="0 0 200 200">
+<circle cx="100" cy="100" r="100" fill="#2B3620"/>
+<circle cx="100" cy="100" r="88" fill="none" stroke="#E5CE47" stroke-width="1.4"/>
+<g fill="none" stroke="#E5CE47" stroke-width="2.1" stroke-linecap="round">
+<path d="M78 56c6-5 15-6 21-2"/><path d="M104 48c7-6 17-6 23-1"/>
+<path d="M74 62l6 34c.6 3.4 3.4 5.6 6.8 5.6h9.6c3.4 0 6.2-2.2 6.8-5.6l6-34z"/>
+<path d="M104 56l6 34c.6 3.4 3.4 5.6 6.8 5.6h9.6c3.4 0 6.2-2.2 6.8-5.6l6-34z"/>
+<line x1="76" y1="74" x2="98" y2="74"/><line x1="106" y1="68" x2="128" y2="68"/>
+<line x1="79" y1="86" x2="96" y2="86"/><line x1="109" y1="80" x2="126" y2="80"/>
+</g>
+<text x="46" y="102" text-anchor="middle" fill="#E5CE47" font-family="Karla, sans-serif" font-size="11">EST.</text>
+<text x="155" y="102" text-anchor="middle" fill="#E5CE47" font-family="Karla, sans-serif" font-size="11">2025</text>
+<g fill="#E5CE47" font-family="Fraunces, Georgia, serif" font-weight="700" text-anchor="middle">
+<text x="100" y="134" font-size="25">4C</text>
+<text x="100" y="156" font-size="23">COFFEE &amp;</text>
+<text x="100" y="177" font-size="23">DELI</text>
+</g>
+</symbol>
+<symbol id="crest-mill" viewBox="0 0 200 200">
+<rect width="200" height="200" fill="#0B0A09"/>
+<g fill="none" stroke="#C0724A" stroke-width="1.2" stroke-linecap="round">
+<path d="M100 16a84 84 0 0 1 84 84"/><path d="M184 100a84 84 0 0 1-84 84"/>
+<path d="M100 184a84 84 0 0 1-84-84"/><path d="M16 100a84 84 0 0 1 84-84"/>
+<path d="M100 22a78 78 0 0 1 78 78" opacity=".55"/><path d="M22 100a78 78 0 0 1 78-78" opacity=".55"/>
+</g>
+<circle cx="16" cy="100" r="3.2" fill="#C0724A"/><circle cx="184" cy="100" r="3.2" fill="#C0724A"/>
+<text x="100" y="84" text-anchor="middle" fill="#C0724A" font-family="Fraunces, Georgia, serif" font-size="60">4C</text>
+<g stroke="#C0724A" stroke-width=".9"><line x1="58" y1="96" x2="88" y2="96"/><line x1="112" y1="96" x2="142" y2="96"/></g>
+<text x="100" y="99" text-anchor="middle" fill="#C0724A" font-family="Cormorant Garamond, Georgia, serif" font-size="9" letter-spacing="1.6">AT</text>
+<text x="100" y="119" text-anchor="middle" fill="#F2EAE0" font-family="Cormorant Garamond, Georgia, serif" font-size="19" letter-spacing="2.4">CARTIN'S MILL</text>
+<g>
+<path d="M74 168V136l18-11 18 11v32z" fill="#EFE7DA"/>
+<path d="M110 168V130l22-13 22 13v38z" fill="#EFE7DA"/>
+<path d="M72 137l20-13 20 13z" fill="#1A1614"/><path d="M108 131l24-15 24 15z" fill="#1A1614"/>
+<rect x="87" y="112" width="6" height="14" fill="#EFE7DA"/><rect x="127" y="104" width="6" height="14" fill="#EFE7DA"/>
+<g fill="#1A1614">
+<rect x="80" y="142" width="6" height="8"/><rect x="97" y="142" width="6" height="8"/>
+<rect x="80" y="156" width="6" height="8"/><rect x="97" y="156" width="6" height="8"/>
+<rect x="116" y="136" width="6" height="8"/><rect x="139" y="136" width="6" height="8"/>
+<rect x="116" y="152" width="6" height="8"/><rect x="139" y="152" width="6" height="8"/>
+<path d="M128 168v-14a4 4 0 0 1 8 0v14z"/>
+</g>
+<line x1="66" y1="168" x2="160" y2="168" stroke="#C0724A" stroke-width="1"/>
+</g>
+<path id="millArc" d="M42 152a62 62 0 0 0 116 0" fill="none"/>
+<text fill="#C0724A" font-family="Cormorant Garamond, Georgia, serif" font-size="11" letter-spacing="4.5">
+<textPath href="#millArc" startOffset="50%" text-anchor="middle">RESTAURANT</textPath>
+</text>
+</symbol>
+<symbol id="crest-cater" viewBox="0 0 200 200">
+<rect width="200" height="200" fill="#171310"/>
+<circle cx="100" cy="100" r="88" fill="none" stroke="#C8A24A" stroke-width="1.3"/>
+<circle cx="100" cy="100" r="82" fill="none" stroke="#C8A24A" stroke-width=".7" opacity=".5"/>
+<g fill="none" stroke="#C8A24A" stroke-width="2" stroke-linecap="round">
+<path d="M56 96a44 26 0 0 1 88 0"/><line x1="48" y1="96" x2="152" y2="96"/>
+<line x1="100" y1="60" x2="100" y2="70"/><circle cx="100" cy="56" r="3.4"/>
+</g>
+<text x="100" y="132" text-anchor="middle" fill="#C8A24A" font-family="Fraunces, Georgia, serif" font-size="38">4C</text>
+<text x="100" y="152" text-anchor="middle" fill="#E0C583" font-family="Cormorant Garamond, Georgia, serif" font-size="13" letter-spacing="3">OUTSIDE</text>
+<text x="100" y="170" text-anchor="middle" fill="#E0C583" font-family="Cormorant Garamond, Georgia, serif" font-size="13" letter-spacing="3">CATERING</text>
+</symbol>
+<symbol id="i-pin" viewBox="0 0 24 24"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5A2.5 2.5 0 1 1 12 6.5a2.5 2.5 0 0 1 0 5z"/></symbol>
+<symbol id="i-arrow" viewBox="0 0 24 24"><path d="M13.2 4.6 11.8 6l5 5H3v2h13.8l-5 5 1.4 1.4L21 12z"/></symbol>
+</svg>
