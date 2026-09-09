@@ -39,7 +39,22 @@ color:var(--cream);border-bottom:2px solid var(--gold)}
 .masthead nav a{text-decoration:none;font-size:.8rem;letter-spacing:.14em;
 text-transform:uppercase;opacity:.8;transition:.25s}
 .masthead nav a:hover,.masthead nav a.here{opacity:1;color:var(--gold)}
-@media(max-width:1000px){.masthead nav a{display:none}}
+.navtoggle{display:none;background:none;border:0;padding:.5rem;margin-left:auto;
+cursor:pointer;flex-direction:column;justify-content:center;gap:5px}
+.navtoggle span{display:block;width:22px;height:2px;background:var(--cream);transition:.25s}
+.navtoggle[aria-expanded="true"] span:nth-child(1){transform:translateY(7px) rotate(45deg)}
+.navtoggle[aria-expanded="true"] span:nth-child(2){opacity:0}
+.navtoggle[aria-expanded="true"] span:nth-child(3){transform:translateY(-7px) rotate(-45deg)}
+@media(max-width:1000px){
+.navtoggle{display:flex}
+.masthead nav{position:absolute;top:66px;left:0;right:0;margin-left:0;
+background:var(--espresso);flex-direction:column;align-items:stretch;gap:0;
+max-height:0;overflow:hidden;transition:max-height .3s ease;
+border-bottom:2px solid var(--gold)}
+.masthead nav.nav--open{max-height:320px}
+.masthead nav a{display:block!important;padding:1.05rem var(--gutter);
+border-top:1px solid var(--hairline-gold);font-size:.85rem}
+}
 .hero{background:var(--cream);color:var(--ink);position:relative;overflow:hidden;
 padding:clamp(3.5rem,9vw,6.5rem) 0 clamp(2.5rem,5vw,4rem);
 border-bottom:1px solid var(--hairline)}

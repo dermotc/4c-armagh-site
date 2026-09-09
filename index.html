@@ -84,7 +84,8 @@
 <a class="brandmark" href="index.html" aria-label="4C, home">
 <img src="images/logo-4c.jpg" alt="4C Coffee House &amp; Kitchen">
 </a>
-<nav>
+<button class="navtoggle" aria-label="Menu" aria-expanded="false" aria-controls="primary-nav" onclick="var n=document.getElementById('primary-nav');var open=n.classList.toggle('nav--open');this.setAttribute('aria-expanded',open);"><span></span><span></span><span></span></button>
+<nav id="primary-nav">
 <a href="index.html" class="here">Home</a>
 <a href="coffee-house.html">Coffee House</a>
 <a href="cartins-mill.html">Cartin's Mill</a>
