@@ -84,6 +84,7 @@ const MENUS = {
   courses:[
    {name:"Soup &amp; salads",note:"",items:[
     ["Soup of the Day","Served with a wheaten scone and real butter.","\u00a37.50"],
+    ["Bruschetta","Fresh tomatoes, mozzarella, red onion, extra virgin olive oil and fresh basil on sourdough with a side of salad.","\u00a311.95"],
     ["Caesar Salad or Wrap","Crispy chicken, bacon, mixed leaves, sun-dried tomatoes, croutons and parmesan.","\u00a311.95","Gluten free"],
     ["The G.O.A.T","Fivemiletown goats cheese, mixed leaves, beetroot, walnut, peach, honey and balsamic.","\u00a311.95","Gluten free"]]},
    {name:"Sandwiches",note:"",items:[
@@ -108,7 +109,7 @@ const MENUS = {
     ["4C Spicy Fries","Crispy chicken, cheddar, jalape\u00f1os and 4C spicy sauce.","\u00a312.95"],
     ["Peppered Fries","Crispy chicken, cheddar, tobacco onions and peppered sauce.","\u00a312.95"]]},
    {name:"Sides",note:"",items:[
-    ["French Fries","","\u00a33.45"],["Sweet Potato Fries","","\u00a33.95"]]}]},
+    ["French Fries","","\u00a34.50"],["Sweet Potato Fries","","\u00a34.50"],["Parmesan Truffle Fries","","\u00a35.50"]]}]},
  afterschool:{label:"After school",served:"Served Monday \u2013 Thursday, 3:30pm \u2013 5:00pm",
   foot:"Please inform our staff of any allergies or dietary requirements.",
   courses:[
