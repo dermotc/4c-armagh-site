@@ -27,7 +27,10 @@ const SHOT = {
  "Hot Chocolate":"drink-hot-chocolate.png",
  "White Hot Chocolate":"drink-white-hot-chocolate.png",
  "Breakfast Tea":"drink-breakfast-tea.jpg",
- "Herbal Teas":"drink-herbal-tea.jpg"
+ "Herbal Teas":"drink-herbal-tea.jpg",
+ "Full Fry":"dish-full-fry.jpg",
+ "French Toast":"dish-french-toast.jpg",
+ "Crunchy Biscoff":"dish-crunchy-biscoff.jpg"
 };
 const MENUS = {
  breakfast:{label:"Breakfast",served:"Served 8:00am \u2013 3:30pm",
