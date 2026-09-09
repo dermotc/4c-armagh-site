@@ -14,7 +14,20 @@ const SHOT = {
  "4C Smashed Angus Beef Burger":"dish-angus-burger.jpg",
  "Corrs Club":"sandwich-made-to-order.jpg",
  "Cappuccino":"hot-chocolate-cappuccino.jpg",
- "Single Espresso":"coffee-beans.jpg"
+ "Single Espresso":"coffee-beans.jpg",
+ "Double Espresso":"drink-double-espresso.jpg",
+ "Americano":"drink-americano.jpg",
+ "Flat White":"drink-flat-white.jpg",
+ "Café au Lait":"drink-cafe-au-lait.jpg",
+ "Chai Latte":"drink-chai-latte.jpg",
+ "Cortado":"drink-cortado.jpg",
+ "Macchiato":"drink-macchiato.jpg",
+ "Mocha":"drink-mocha.jpg",
+ "White Mocha":"drink-white-mocha.jpg",
+ "Hot Chocolate":"drink-hot-chocolate.png",
+ "White Hot Chocolate":"drink-white-hot-chocolate.png",
+ "Breakfast Tea":"drink-breakfast-tea.jpg",
+ "Herbal Teas":"drink-herbal-tea.jpg"
 };
 const MENUS = {
  breakfast:{label:"Breakfast",served:"Served 8:00am \u2013 3:30pm",
